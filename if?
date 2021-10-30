@@ -1,0 +1,12 @@
+#made by the one and only FondZz
+v = input("")
+#v means its a input. what is a input? a input is when you click a button on your pc
+if v=="EasterEgg":
+    print("Did you look at the code or just type that?")
+#if v means/== to Easter egg Then print "Did you look at the code or just type that?"
+
+name =input("Enter your name ")
+#name means its a input.
+if name == "pog":
+    #if our name means/== to "pog" then print "nice"
+    print("nice")
